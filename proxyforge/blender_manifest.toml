@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "proxyforge"
+version = "0.1.0"
+name = "ProxyForge"
+tagline = "Build proxy rigs fast for better viewport performance"
+maintainer = "Developer"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-2.0-or-later"]
+
+[permissions]
+files = "Allow exporting proxy meshes"
